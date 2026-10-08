@@ -1,196 +1,193 @@
-Create an impressive and clean GitHub Profile README.md for me using my attached resume as the primary source.
+<h1 align="center">👋 Hey, I'm Sowdhanya</h1>
 
-Use the attached GitHub profile screenshot only as a DESIGN REFERENCE. I like its simple personal-branding style, short sections, clean separators, and strong introduction. Do not copy its content.
+<h3 align="center">Computer Science Engineer | Software Developer | AI/ML Enthusiast | DevOps Learner</h3>
 
-### My Profile
+<p align="center">
+  Computer Science student who enjoys turning ideas into working software.<br>
+  Building across Software Development, AI/ML and DevOps — one project at a time.
+</p>
 
-Name: Sowdhanya Rajkumar
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-→-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Builder-→-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%2FML%20%2B%20Software%20%2B%20DevOps-purple?style=for-the-badge" />
+</p>
 
-I am a Computer Science and Engineering student interested in:
-- Software Development
-- Python
-- Java
-- Backend Development
-- Data Structures & Algorithms
-- Problem Solving
-- Building practical software projects
-
-### Important
-
-Do NOT position me as:
-- Full Stack Developer
-- AI/ML Developer
-- DevOps Engineer
-- Automation Developer
-
-Do NOT include dedicated sections for:
-- Full Stack
-- AI/ML
-- DevOps
-- Automation
-- Highlights
-
-Keep the profile focused on my identity as a Computer Science student and software developer.
-
-### README STRUCTURE
-
-# 👋 Hey, I'm Sowdhanya
-
-Create a short, confident introduction.
-
-Example style:
-
-"Computer Science student who enjoys turning ideas into working software.
-Learning, building, and solving problems one project at a time."
-
-Make it natural and personal.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sowdhanyarajkumar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 💻 What I Do
+## 🚀 What I Do
 
-Keep this short:
+- Build full-stack applications
+- Develop REST APIs and backend systems
+- Explore AI/ML and intelligent applications
+- Work with DevOps and CI/CD
+- Solve DSA and strengthen core CS fundamentals
+- Participate in hackathons and startup initiatives
 
-- Build software projects
-- Develop backend applications and APIs
-- Practice Data Structures & Algorithms
-- Work with Python and Java
-- Explore databases and software engineering
-- Turn ideas into practical applications
-
----
-
-## 🛠️ Tech Stack
-
-Group technologies into:
-
-### Languages
-- Python
-- Java
-- JavaScript
-- SQL
-
-### Development
-- React.js
-- Flask
-- FastAPI
-- REST APIs
-
-### Databases
-- MongoDB
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Jupyter Notebook
-- Google Colab
-
-Use clean GitHub-compatible badges/icons.
+**Main areas:** `Software Development` · `AI / ML` · `Backend` · `Full Stack` · `DevOps`
 
 ---
 
-## 🚀 Projects
+## 🧠 Tech I Work With
 
-Include my projects from the resume:
+**Languages**
 
-### CloakRoom – AI Smart Mirror
-Give a short description based strictly on my resume.
+<p>
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### Solar Energy Storage & Battery Management System
-Give a short description based strictly on my resume.
+**Frontend & Backend**
 
-### DocuMind – Intelligent Document Assistant
-Give a short description based strictly on my resume.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flask,fastapi,nodejs" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-### Skill Connect – Skill & Opportunity Platform
-Give a short description based strictly on my resume.
+**AI / ML**
 
-For each project include:
-- Short description
-- Technologies
-- GitHub repository placeholder
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,numpy" />
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+**DevOps & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,aws,githubactions,linux" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🔨 What I've Built
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🪞 CloakRoom – AI Smart Mirror</h3>
+      <p>An AI-powered smart mirror experience for intelligent, interactive use.</p>
+      <p><b>Stack:</b> Python · AI/ML</p>
+      <p><a href="YOUR_PROJECT_REPO_URL">🔗 View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔋 Solar Energy Storage & BMS</h3>
+      <p>A solar energy storage and battery management system for monitoring and managing energy.</p>
+      <p><b>Stack:</b> Python · Data Analysis</p>
+      <p><a href="YOUR_PROJECT_REPO_URL">🔗 View Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 DocuMind – Intelligent Document Assistant</h3>
+      <p>An assistant that helps users understand and interact with their documents.</p>
+      <p><b>Stack:</b> Python · FastAPI · Hugging Face</p>
+      <p><a href="YOUR_PROJECT_REPO_URL">🔗 View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Skill Connect</h3>
+      <p>A platform connecting people with skills and opportunities.</p>
+      <p><b>Stack:</b> React.js · Flask · MongoDB</p>
+      <p><a href="YOUR_PROJECT_REPO_URL">🔗 View Repository</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
-Include:
+| Role | Company | Focus |
+|------|---------|-------|
+| **DevOps Intern** | Revamps Academy | CI/CD, Docker, DevOps workflows |
+| **Full Stack Development Intern** | Nexgen - Nextopia | Full-stack web development |
+| **Data Analyst Intern** | Azhizen Solutions | Data analysis & insights |
 
-**Revamps Academy — DevOps Intern**
+🎓 **B.E. Computer Science and Engineering** — KSR College of Engineering (2024–2028)
 
-**Nexgen - Nextopia — Full Stack Development Intern**
+---
 
-**Azhizen Solutions — Data Analyst Intern**
+## 🏆 Highlights
 
-Keep each description very short and professional.
-
-Do not make the README focused on these job titles. They should simply appear under Experience.
+- 🥇 **Winner** — Codethon (KSRCE)
+- 🥈 **Runner-Up** — Innovation Hub (KSRCT)
+- 💡 **Smart Card recognition** from StartupTN
+- 🚀 Participated in **TN Global Start-Up Summit 2025**
+- 👩‍💻 Participated in **TN-Wise Women's Hackathon** — StartUp TN
+- 🎤 **Public speaker** with experience addressing audiences on **50+ stages**
+- 🧭 **Head Lead**, Neo Spark KSRCE
 
 ---
 
 ## 📚 Currently Learning
 
-Focus only on:
-
-- Data Structures & Algorithms
-- Java
-- Python
-- Backend Development
-- Database Management
-- Software Engineering
+- Advanced Data Structures & Algorithms
+- Backend development
+- AI / ML
+- DevOps
+- Cloud (AWS)
+- System design
 
 ---
 
 ## 🎯 My Goal
 
-Write a short paragraph about becoming a strong software engineer by improving programming fundamentals, problem-solving skills, backend development, and building meaningful software projects.
+I want to become a strong software engineer who can combine software development, AI/ML and DevOps to build practical, scalable solutions. I'm learning by building real projects, competing in hackathons, and strengthening my core CS fundamentals every day.
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
-Include:
-- GitHub Stats
-- Top Languages
-- Contribution Streak
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sowdhanyarajkumar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowdhanyarajkumar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Use reliable GitHub-compatible Markdown.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sowdhanyarajkumar&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/Sowdhanya_Rajkumar/">
+    <img src="https://leetcard.jacoblin.cool/Sowdhanya_Rajkumar?theme=dark&font=Karla&ext=heatmap" />
+  </a>
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-Include:
-- LinkedIn
-- GitHub
-- Email
+<p align="center">
+  <a href="https://www.linkedin.com/in/sowdhanya-rajkumar-826991339/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sowdhanyarajkumar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Sowdhanya_Rajkumar/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:sowdhanyarajkumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Use placeholders where links are unavailable.
-
-### DESIGN
-
-Make it:
-- Clean
-- Minimal
-- Professional
-- Developer-focused
-- Recruiter-friendly
-- Personal
-- Modern
-
-Use minimal emojis.
-
-Do not make it look like a resume.
-
-Do not use generic motivational quotes.
-
-Do not invent achievements, statistics, projects, links, or experience.
-
-The first screen should immediately communicate:
-
-**Computer Science Student → Software Developer → Problem Solver**
-
-Give me the FINAL README.md as a single copy-paste-ready Markdown code block.
+<p align="center"><i>Always open to collaborating on projects, hackathons and ideas.</i></p>
